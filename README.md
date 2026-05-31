@@ -11,7 +11,7 @@
 - 🔭 I'm currently building AI-powered developer tools and fraud detection systems
 - 🌱 I'm continuously learning machine learning, cloud architecture, and system design
 - 💬 Ask me about Python, JavaScript, React, Java, or anything full-stack
-- 📍 Based in Welland, Ontario, Canada
+- 📍 Based in Ontario, Canada
 - ⚡ Fun fact: I love turning complex data into meaningful, actionable insights
 
 ---
