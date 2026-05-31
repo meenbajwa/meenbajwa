@@ -3,9 +3,10 @@
 **ML Engineer & Full-Stack Developer** | Master's in Applied Computing (AI/ML) @ University of Windsor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasmeen-kaur-bb8b86409/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-2161-7802)
-[![GitHub followers](https://img.shields.io/github/followers/meenbajwa?label=Follow&style=for-the-badge)](https://github.com/meenbajwa)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://meenbajwa.github.io/my-story/)
+
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-2161-7802)
 ---
 
 ## 🙋‍♀️ about me
@@ -15,7 +16,7 @@
 - 🤖 currently: building & shipping ML + full-stack projects as a master's student (3.95 GPA)
 - 🔬 went from researching **potato leaf blight in a lab** to deploying **dockerized ML systems end to end**
 - 📍 Ontario, Canada
-- ⚡ i care about *why* the model works, not just that it works
+- ⚡ i care about why the model works, not just that it works
 
 ---
 
