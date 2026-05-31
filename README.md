@@ -8,13 +8,13 @@
 
 ---
 
-## 🤝‍♀️ about me
+## 🙋‍♀️ about me
 
 > i love building systems from 0 to 1. research background, production mindset.
 
 - 🤖 currently: building & shipping ML + full-stack projects as a master's student (3.95 GPA)
 - 🔬 went from researching **potato leaf blight in a lab** to deploying **dockerized ML systems end to end**
-- 📐 Ontario, Canada
+- 📍 Ontario, Canada
 - ⚡ i care about why the model works, not just that it works
 
 ---
